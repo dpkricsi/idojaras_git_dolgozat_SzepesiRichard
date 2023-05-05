@@ -31,6 +31,11 @@ p
 table
 {
 	border:outset;
+	margin: 0 auto;
+	border-spacing: 0;
+}
+td{
+	padding: 0;
 }
 
 hr
@@ -58,4 +63,11 @@ input
 h1, h2 {
 	color: #243f84;
 	text-transform: uppercase;
+  }
+  .szurke {
+	font-size: small;
+	text-align: center;
+	color: #808183;
+	font-weight: bold;
+	text-decoration: none;
   }
