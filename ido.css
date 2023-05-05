@@ -71,3 +71,7 @@ h1, h2 {
 	font-weight: bold;
 	text-decoration: none;
   }
+  .lista{
+	list-style-image: url(nap.png);
+	margin-left: 10%;
+  }
